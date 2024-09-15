@@ -18,7 +18,7 @@ To use, ensure that Java is installed and download `statusTracker.java` from thi
 
 At start-up, Status Tracker presents a list of 10 names, all of which are initially empty with corresponding `null` labels for their status. The status for the names can be toggled through the corresponding button present in the same row. Easily editable, the list of names are text fields wherein names can be put, removed, or altered. 
 
-# Developers 
+# Developer
 David Joshua Adriano<br />
 
 # Documentation
